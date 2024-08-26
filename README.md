@@ -1,8 +1,8 @@
-# Arduino Projects Repository
+# 🎛️ Arduino Projects Repository
 
 Welcome to my Arduino Projects repository! This collection showcases various Arduino-based projects that I've developed during my studies. Each project is an example of hands-on experience gained in electronics, programming, and embedded systems. Feel free to explore, use, and modify these projects for your learning or personal use.
 
-## Project List
+## 📂 Project List
 
 Below is a list of the projects included in this repository:
 
@@ -21,13 +21,13 @@ Below is a list of the projects included in this repository:
 - **ThermometerWithLCD.ino**: An enhanced digital thermometer with an LCD display.
 - **traffic lights.ino**: Simulation of a traffic light system using LEDs.
 
-## Getting Started
+## 🚀 Getting Started
 
 To get started with any of these projects, you'll need an Arduino board, the necessary components, and the Arduino IDE installed on your computer.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/arduino-projects.git
+   git clone https://github.com/Michal0536/Arduino.git
    ```
 
 2. Open the .ino file in the Arduino IDE.
